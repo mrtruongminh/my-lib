@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "files": [
-    "dist"
+    "dist",
+    "my-lib.js"
   ],
   "main": "./dist/my-lib.umd.cjs",
   "module": "./dist/my-lib.js",
